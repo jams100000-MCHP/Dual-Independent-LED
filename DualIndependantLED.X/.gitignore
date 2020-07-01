@@ -1,0 +1,6 @@
+*.d
+*.i
+*.p1
+*.production.*
+*.bash
+*.mk
